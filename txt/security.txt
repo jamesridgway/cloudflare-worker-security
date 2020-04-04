@@ -1,0 +1,3 @@
+Contact: https://www.jamesridgway.co.uk/contact
+Preferred-Languages: en
+Canonical: https://www.jamesridgway.co.uk/.well-known/security.txt

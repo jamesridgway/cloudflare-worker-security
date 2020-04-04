@@ -1,0 +1,85 @@
+==================================================================
+https://keybase.io/jamesridgway
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.jamesridgway.co.uk
+  * I am jamesridgway (https://keybase.io/jamesridgway) on keybase.
+  * I have a public key with fingerprint AD33 D275 C4EC C3EE 2600  B1F4 5B11 C8A3 F3BC C4EB
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01014b42eda2f5409b72524ce505520546253ad0e5986c22c66d05e80641439c8dd30a",
+      "fingerprint": "ad33d275c4ecc3ee2600b1f45b11c8a3f3bcc4eb",
+      "host": "keybase.io",
+      "key_id": "5b11c8a3f3bcc4eb",
+      "kid": "01014b42eda2f5409b72524ce505520546253ad0e5986c22c66d05e80641439c8dd30a",
+      "uid": "ad302f381b902947a93391db113f9219",
+      "username": "jamesridgway"
+    },
+    "merkle_root": {
+      "ctime": 1585943907,
+      "hash_meta": "48161bd6b14955a338f6cb0625552e46f97c1440da36939ec527452f8a70fcd4",
+      "seqno": 15756879
+    },
+    "revoke": {
+      "sig_ids": [
+        "442e7b920357a4fad83a16f16a363e120bbf5694b0e894d8600629c49800bd4f0f"
+      ]
+    },
+    "service": {
+      "hostname": "www.jamesridgway.co.uk",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1585943912,
+  "expire_in": 157680000,
+  "prev": "8c6ba1233cea585c45c3138986fee548b94f5fd71dd425ecd3232cb01706f782",
+  "seqno": 35,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owGtU3tMV1Uc/4FYidZ0k58p5vSmODbEc8/jPmhmugHDmVs+cOny573nnvvjJ3Dv
+j3t/vGOZOl9p0/ABYpmUkvOBCcsiDZv4KEViJWkgOh+Ume/IFMHOj+lqrT/76+ye
+83mdz/eeNc/28URHPMLHon776YwQceKq7pm3bL1dLOi2USgkFQuZrHdhWQZzQ77M
+gCEkCUAEItYxZIYGTYKBqsuQQEwZAYRAQLAECdIMwIiqSBRCKkkGIEwBEhYxUqli
+GAhoQoJgBiw/c4JOwApxWc1AyIAyoZhRihiDEgC6aGKiiyJVNGQinfIznRMzbDfM
+4OF0zWWJAZvv8Q9fb7z/wP/PuXN75XheAE2kiLoKoIplTUVIFQ3ujkwVimoY6DLH
+0rIZRy/gi+sEDH++ViiUJAjZzMnMYj7HtkPhgmkoEIaJRCEq9wIyv6TmZviyWUjj
+bKyIkqgbki5ilRANIcWUqA54YJ6cYclUZSpiDAwNSSpSGSVQxgSaiiYDkxqYZ3FZ
+jmWHHWQiKbLKIzgsz85kYXc34OfduULS3ENLBcwbknUVAkRkDZuaoSBNlExR4tqI
+iRDoukkkFeuAKSo2FD4mCaoUqwqfl4FNYApvlIT9nLwA7ZUPj+txDfn5+Yn/rCKR
+2om5mTxe0LFDNrWzOCYjFAq6SeGSQoXBXhLTfY/lfHrAMvhvwxl5zHEDtsWvxJH/
+6k+ECQIrCAYc5gtYvZeWeDoAwj4sj0sqVNI1ESJEmcY5FBOKRKTwwZuMEazoKjaJ
+aciiYWBIGDUQRJA3LspAMmUF/l0oIjyn5ueavEVLC+U6TCiJXhGJojwR0Z4XvKOi
+sve8eXPmJ5dTf34QWfzkqfWNDL8zT3S/gU92btQO9HwwpLJl5+oLr9VO2NDTc0Lq
+j+LVcx/e/ezjyadn/3qiZu8zxxdNa25LrSzYOVTZUZkzvLmqrmdC8v21WbtLOmce
+Wd9v6LfamSun3lH+7Olc/O6U6wnNUnyfYR/FHarv830Zm1NWlTFgsLsuWHrwSFNB
+WXlE4723hzRVBVsWbD62r/rkjVVjnpsYipdMa92ai4MuexsWlk7yRvrLKs7XqGm7
+s9rkvcuKBt9uD04au2yl3r5y7KPp275BXbUn5di54986nrak4kHL4k3zLtXlW/2z
+T7V2teojPS2/L032Nl477/muY1CzJ9a/51Hr8GDRc911RRvnD4ipe/7hL13Vry+9
+nTq9rXtR/dR5Y5qKoxbc298w+nAjHXVAO19x/GjU6lfsGXcKuxM3r72376v0cmsT
+U82WS1Vn1rGhKalbvvxjv9UwYzuJEIu2veemb7yza/A06QHeGWqIn5Wbc+BsKYgT
+O7rO5ddYbqyvMiEl5uzE9Dk/TL415dNXn5rft/mLi3t2VXe0t9LG7A7c1Fnz9P2X
+No2ZPezz9I4d5du9sK1gw4H7h+vP3vzRD5NjUdrI8S8neKtuVZTH+PdfuLqiMm55
+Sufp9NFXcqeuur4lb2r11/Nv392a3BGTMy7KgcasyMqTS1K6J78/a/2ItBcXDzwY
+by1fOKx2W1xRW/2Icd65165vvjCtbc3WhrScdvloWfXR0tiHi/4C
+=fygn
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jamesridgway
+
+==================================================================

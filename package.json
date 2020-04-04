@@ -1,0 +1,21 @@
+{
+  "private": true,
+  "name": "cloudflare-worker-security",
+  "version": "1.0.0",
+  "description": "Cloudflare worker for hosting security.txt and keybase proof",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "prettier --write '**/*.{js,css,json,md}'"
+  },
+  "author": "James Ridgway <james@jamesridgway.co.uk>",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^1.18.2",
+    "webpack": "^4.42.1",
+    "webpack-cli": "^3.3.11"
+  },
+  "dependencies": {
+    "raw-loader": "^4.0.0"
+  }
+}

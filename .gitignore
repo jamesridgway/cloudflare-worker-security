@@ -1,0 +1,11 @@
+.cargo-ok
+**/*.rs.bk
+/dist
+/target
+bin/
+Cargo.lock
+node_modules/
+pkg/
+wasm-pack.log
+worker/
+wrangler.toml
