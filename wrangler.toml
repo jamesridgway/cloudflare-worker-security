@@ -1,0 +1,7 @@
+name = "cloudflare-worker-security"
+type = "webpack"
+webpack_config = "webpack.config.js"
+account_id = ""
+workers_dev = false
+route = "www.jamesridgway.co.uk/.well-known/*"
+zone_id = ""
