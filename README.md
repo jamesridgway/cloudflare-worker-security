@@ -1,4 +1,6 @@
 # Cloudflare Worker - Keybase Proof and Security.txt
+![Deploy](https://github.com/jamesridgway/cloudflare-worker-security/workflows/Deploy/badge.svg?branch=master)
+
 A Cloudflare Worker for serving up keybase proof and security.txt files.
 
 ## Getting Started
