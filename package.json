@@ -11,11 +11,11 @@
   "author": "James Ridgway <james@jamesridgway.co.uk>",
   "license": "MIT",
   "devDependencies": {
-    "prettier": "^1.18.2",
-    "webpack": "^4.44.1",
-    "webpack-cli": "^3.3.12"
+    "prettier": "^2.2.1",
+    "webpack": "^5.21.1",
+    "webpack-cli": "^4.5.0"
   },
   "dependencies": {
-    "raw-loader": "^4.0.1"
+    "raw-loader": "^4.0.2"
   }
 }
